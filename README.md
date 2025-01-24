@@ -1,7 +1,7 @@
 # Educational Kids Game - English Learning
 
 ## Description
-Your project is to create an educational game to teach English to kids. In this game, they are taught the alphabet and numbers, and many tests are set during the academic journey to help them reach a higher level and record their points to motivate them.
+My project is to create an educational game to teach English to kids. In this game, they are taught the alphabet and numbers, and many tests are set during the academic journey to help them reach a higher level and record their points to motivate them.
 
 ## Features
 - **Basic Main Menu**
