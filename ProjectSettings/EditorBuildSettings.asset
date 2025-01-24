@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/AlphabetMain.unity
+    guid: 9db4132a1701b464ab555221475d2adc
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/AScene.unity
+    guid: 2feae8bb866254e48addc77fba262139
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/BScene.unity
+    guid: 4ea5ca8111776af488ef683facdea235
+  - enabled: 1
+    path: Assets/Scenes/all_numbers.unity
+    guid: e374015893582204ea0e59c997c3e709
+  - enabled: 1
+    path: Assets/Scenes/number1.unity
+    guid: 8bd1243442f809149b05bcd74ac8d678
+  - enabled: 1
+    path: Assets/Scenes/number2.unity
+    guid: 89338651c9433c84d91b6beeb11c4f64
+  - enabled: 1
+    path: Assets/Scenes/number3.unity
+    guid: 9b466d016aea3b242ace61df70c743aa
+  - enabled: 1
+    path: Assets/Scenes/number4.unity
+    guid: 6775bc6bde0ac4d468b6c283bb65840d
+  - enabled: 1
+    path: Assets/Scenes/number5.unity
+    guid: d17c1a69b3416994e9072b52799f0e2c
+  - enabled: 1
+    path: Assets/Scenes/number6.unity
+    guid: 6e20e90186308114e911f3b75095ebef
+  - enabled: 1
+    path: Assets/Scenes/number7.unity
+    guid: 4e174f36a6739514c92fd4cfeff4924f
+  - enabled: 1
+    path: Assets/Scenes/number8.unity
+    guid: d736151e0311a384a82bfe66b5cf047e
+  - enabled: 1
+    path: Assets/Scenes/number9.unity
+    guid: a131fccad6902cf42a67c8109d931bf0
+  - enabled: 1
+    path: Assets/Scenes/Number10.unity
+    guid: 3746cde45593ad648ac1e950f72ebb9c
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 5062d38ed5a1b55469dbd77bb2b6394f
+  - enabled: 1
+    path: Assets/Scenes/quizes.unity
+    guid: fc8e0c6b3eff1aa4392c9d2cca903ac4
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: e3ac0c1c0af493e44ae52fb574bf5683
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/CScene.unity
+    guid: c8070fd2b5aac5c4ea98347e1682e2a7
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/DScene.unity
+    guid: b3772b39b142f1542b6b426df42fa9e3
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/EScene.unity
+    guid: 5835894ab05a9de42acf35decefd003f
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/FScene.unity
+    guid: d7a5538db34bf4a48ac9f15286316b61
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/GScene.unity
+    guid: 40ef901ce2f6a814ea474b50c20f9369
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/HScene.unity
+    guid: 26fe0901942db36478a7675d9d7d7912
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/IScene.unity
+    guid: 432e2168562989048ba9b05859ed3a25
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/JScene.unity
+    guid: e90b22aedb9243447995a4f6a1a4a1e4
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/KScene.unity
+    guid: 60e779043701db04389b84bfce694f1a
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/LScene.unity
+    guid: 35c58dcb60a9545479927af809158622
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/MScene.unity
+    guid: 4d1e1760f086dfe49b4fb67008d69b9c
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/NScene.unity
+    guid: f38f63f6e51c79f409a63f8c5c0480e2
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/OScene.unity
+    guid: 57b5c4a9c9fc1b245aa9a682e989f5e9
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/PScene.unity
+    guid: 924bd4b84114dbf47b660737830efe49
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/QScene.unity
+    guid: ba6cb5eb4b7d536439378a6b0dfad8f3
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/RScene.unity
+    guid: 49e197df67b7794439c53a3fff946e58
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/SScene.unity
+    guid: c03a87d4ed19f954fa91a6769567dedb
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/TScene.unity
+    guid: 8e86c245534c6a34b95b0a7c82247a08
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/UScene.unity
+    guid: 4b54de5a46ff2c245a275aa439fc3278
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/VScene.unity
+    guid: 06a5d621da11df948b39cf8d69baeb37
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/WScene.unity
+    guid: 114587b2794930a4c8262ff16b6c3a0c
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/XScene.unity
+    guid: bb01bb85c59e20a4f805fb788d352708
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/YScene.unity
+    guid: 81c921c8f531dc146ae3a6c3fc853583
+  - enabled: 1
+    path: Assets/Scenes/Alphabets/ZScene.unity
+    guid: 78f8634faaf610b46ac6bac912b2b232
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Quiz1.unity
+    guid: c2db0b51f20d7eb4f947f923ab18c4a8
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Quiz2.unity
+    guid: 5025336f206b8b4459ba026ac300ee71
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Quiz3.unity
+    guid: 1292c40aa16d26449997c69f44df9c8c
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Quiz4.unity
+    guid: dc2a442d2a2fefd4ca711e3a63300a34
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Quiz5.unity
+    guid: 9ad214a2adaad6f4e8091913d531232c
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Quiz6.unity
+    guid: 7242ac7d626b5604d96d4e893b200b55
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: 6df4bfb70305b30479468172a00233ee
+  m_configObjects: {}
